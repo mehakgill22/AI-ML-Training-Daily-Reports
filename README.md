@@ -40,31 +40,35 @@ This repository contains my daily learning reports from a 4-week Artificial Inte
 
 This repository contains 23 daily reports documenting the topics covered and key learning outcomes throughout the training.
 
-| Day | Report |
-|---|---|
-| Day 01 | Introduction to AI, ML and Deep Learning |
-| Day 02 | Types of Machine Learning |
-| Day 03 | Real-World Applications of AI/ML |
-| Day 04 | Machine Learning Workflow |
-| Day 05 | Python Fundamentals – NumPy and Pandas |
-| Day 06 | Data Collection and Dataset Understanding |
-| Day 07 | Data Cleaning |
-| Day 08 | Data Preprocessing |
-| Day 09 | Exploratory Data Analysis |
-| Day 10 | Basic Statistics |
-| Day 11 | Probability Concepts |
-| Day 12 | Linear Algebra |
-| Day 13 | Introduction to Regression |
-| Day 14 | Linear Regression |
-| Day 15 | Logistic Regression |
-| Day 16 | K-Nearest Neighbors (KNN) |
-| Day 17 | Decision Trees |
-| Day 18 | Random Forest Algorithm |
-| Day 19 | Model Evaluation and Validation |
-| Day 20 | Clustering and K-Means |
-| Day 21 | Hierarchical Clustering and PCA |
-| Day 22 | Neural Networks and Deep Learning |
-| Day 23 | Computer Vision, NLP and Model Deployment |
+## Daily Learning Reports
+
+The following reports document my day-wise learning progress throughout the 4-week AI/ML training program.
+
+| Day | Topic | Report |
+|---|---|---|
+| 01 | Introduction to AI, ML and Deep Learning | [View Report](Day-01.md) |
+| 02 | Types of Machine Learning | [View Report](Day-02.md) |
+| 03 | Real-World Applications of AI/ML | [View Report](Day-03.md) |
+| 04 | Machine Learning Workflow | [View Report](Day-04.md) |
+| 05 | Python Fundamentals – NumPy and Pandas | [View Report](Day-05.md) |
+| 06 | Data Collection and Dataset Understanding | [View Report](Day-06.md) |
+| 07 | Data Cleaning | [View Report](Day-07.md) |
+| 08 | Data Preprocessing | [View Report](Day-08.md) |
+| 09 | Exploratory Data Analysis (EDA) | [View Report](Day-09.md) |
+| 10 | Basic Statistics | [View Report](Day-10.md) |
+| 11 | Probability Concepts | [View Report](Day-11.md) |
+| 12 | Linear Algebra | [View Report](Day-12.md) |
+| 13 | Introduction to Regression | [View Report](Day-13.md) |
+| 14 | Linear Regression | [View Report](Day-14.md) |
+| 15 | Logistic Regression | [View Report](Day-15.md) |
+| 16 | K-Nearest Neighbors (KNN) | [View Report](Day-16.md) |
+| 17 | Decision Trees | [View Report](Day-17.md) |
+| 18 | Random Forest Algorithm | [View Report](Day-18.md) |
+| 19 | Model Evaluation and Validation | [View Report](Day-19.md) |
+| 20 | Clustering and K-Means | [View Report](Day-20.md) |
+| 21 | Hierarchical Clustering and PCA | [View Report](Day-21.md) |
+| 22 | Neural Networks and Deep Learning | [View Report](Day-22.md) |
+| 23 | Computer Vision, NLP and Model Deployment | [View Report](Day-23.md) |
 
 ## Key Learning Outcomes
 - Developed an understanding of fundamental AI and ML concepts.
